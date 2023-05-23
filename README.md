@@ -1,2 +1,2 @@
 # ooucedwebsite
-Computer Engineering Department Website of Olabisi Onabanjo
+Computer Engineering Department Website of Olabisi Onabanjo University
